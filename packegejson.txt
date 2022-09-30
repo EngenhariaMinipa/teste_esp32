@@ -1,0 +1,12 @@
+{
+  "name": "teste_esp32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+  "start": "webpack-dev-server --mode development --open --hot",
+  "build": "webpack --mode production"
+
+    {
+
+  },
